@@ -1,4 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+ This is a simple template where all the necessary code is written to connect with google.
+ https://console.cloud.google.com/projectselector2/apis/dashboard?supportedpurview=project to create new project and complete all the steps and go to the credentials section and change the google credentials in the env file.
+ You can also refer to https://www.youtube.com/watch?v=dTFXufTgfOE 
 
 ## Getting Started
 
